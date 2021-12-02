@@ -1,0 +1,7 @@
+F:\MyProjectTemp\C#\HexViewer\HexViewer\obj\x86\Debug\HexViewer.Form1.resources
+F:\MyProjectTemp\C#\HexViewer\HexViewer\obj\x86\Debug\HexViewer.Properties.Resources.resources
+F:\MyProjectTemp\C#\HexViewer\HexViewer\obj\x86\Debug\HexViewer.csproj.GenerateResource.Cache
+F:\MyProjectTemp\C#\HexViewer\HexViewer\bin\Debug\HexViewer.exe
+F:\MyProjectTemp\C#\HexViewer\HexViewer\bin\Debug\HexViewer.pdb
+F:\MyProjectTemp\C#\HexViewer\HexViewer\obj\x86\Debug\HexViewer.exe
+F:\MyProjectTemp\C#\HexViewer\HexViewer\obj\x86\Debug\HexViewer.pdb
