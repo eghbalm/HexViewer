@@ -7,6 +7,5 @@ It is written in C# and use form application<br>
 It is very fast Loaded file and suported any file size<br>
 
 Mail : eghbalm1362@gmail.com<br>
-Company :PicoSystem<br>
 Mobile : 09187843531<br>
 Date:4/6/2017
